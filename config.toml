@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://arunkpatra.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Hugo Hermit"
+title = "Marichikā"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "John Doe"
+  name = "Arun Patra"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -36,7 +36,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A minimal and fast theme for Hugo."
+  homeSubtitle = "Musings, stories and real fantasies..."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -57,15 +57,23 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/arunkpatra"
 
   [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
+    name = "linkedin"
+    url = "https://linkedin.com/in/arunkpatra"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/"
+    url = "https://github.com/arunkpatra"
+
+  [[params.social]]
+    name = "facebook"
+    url = "https://www.facebook.com/arun.patra"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:arunkpatra@gmail.com"
 
 [menu]
 
@@ -76,5 +84,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   [[menu.main]]
     name = "About"
-    url = "about-hugo/"
+    url = "about-arun/"
     weight = 20
