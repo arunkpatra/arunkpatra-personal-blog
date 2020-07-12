@@ -16,6 +16,12 @@ Or if you have already cloned the project, you can use:
 git submodule init
 git submodule update
 ```
+
+## Add a new post
+
+``` 
+hugo new posts/post-name.md
+```
 ## Running Locally
 ``` 
 hugo server -D
