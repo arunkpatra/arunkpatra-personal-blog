@@ -113,16 +113,20 @@ math = true
     url  = "https://twitter.com/arunkpatra"
 
   [[params.social]]
-    name = "email"
-    url  = "mailto:arunkpatra@gmail.com"
+    name = "linkedin"
+    url  = "https://linkedin.com/in/arunkpatra"
+
+  [[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/arun.patra"
 
   [[params.social]]
     name = "github"
     url  = "https://github.com/arunkpatra"
 
   [[params.social]]
-    name = "linkedin"
-    url  = "https://linkedin.com/in/arunkpatra"
+    name = "email"
+    url  = "mailto:arunkpatra@gmail.com"
 
 [languages]
   [languages.en]
@@ -144,3 +148,24 @@ math = true
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+[deployment]
+
+[[deployment.targets]]
+name = "blog"
+URL = "gs://www.arunkpatra.io"
+
+[[deployment.matchers]]
+#  Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
