@@ -59,7 +59,7 @@ math = true
   keywords = ""
   images = [""]
 
-  homeSubtitle = "Musings, stories, art and code..."
+  homeSubtitle = "Musings, Stories, Art and Code..."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
