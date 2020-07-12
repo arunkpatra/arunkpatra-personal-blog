@@ -6,7 +6,7 @@ install:
   - sudo dpkg -i hugo_0.73.0_Linux-64bit.deb
 
 script:
-  - hugo --cleanDestinationDir --verbose
+  - hugo
 
 deploy:
   provider: gcs
