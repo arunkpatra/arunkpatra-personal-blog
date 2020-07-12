@@ -32,6 +32,7 @@ disableRSS     = false
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
+disableToc     = false
 math = true
 
 [permalinks]
@@ -148,6 +149,10 @@ math = true
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "categories"
+    name       = "Categories"
+    url        = "categories/"
 
 [deployment]
 

@@ -8,6 +8,7 @@ type:
 - posts
 title: Creating a New Theme
 weight: 10
+draft: true
 series:
 - Hugo 101
 ---

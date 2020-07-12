@@ -9,6 +9,7 @@ linktitle = ""
 slug = "Debuter avec Hugo"
 title = "Débuter avec Hugo"
 type = "post"
+draft = true
 [ author ]
   name = "Hugo Authors"
 +++
