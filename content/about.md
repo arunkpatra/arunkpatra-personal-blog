@@ -6,4 +6,6 @@ aliases = ["about-me","about-arun","contact"]
   name = "Arun Patra"
 +++
 
+{{< image src="/arun.png" alt="Arun Patra" position="center" style="border-radius: 5px;" >}}
+
 Engineer, technology enthusiast, part-time chef and full time husband.

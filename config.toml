@@ -133,12 +133,16 @@ math = true
   [languages.en]
     subtitle  = "Musings"
     weight    = 1
-    copyright = ''
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+    [languages.en.params.logo]
+      path = "/marichika-logo.svg"
+      alt = "Marichikā"
+  
   [languages.fr]
     subtitle  = "Musings"
     weight    = 2
-    copyright = ''
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
