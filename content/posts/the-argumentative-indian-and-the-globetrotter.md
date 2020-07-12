@@ -1,7 +1,7 @@
 ---
 title: "The Argumentative Indian and the Globetrotter"
 description: "The Argumentative Indian and the Globetrotter"
-date: 2020-06-12
+date: 2020-07-05
 draft: false
 toc: false
 images:
