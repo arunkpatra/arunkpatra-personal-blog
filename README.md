@@ -31,6 +31,9 @@ hugo --cleanDestinationDir --verbose
 ``` 
 gsutil -m rsync -R public gs://www.arunkpatra.io
 ```
+
+CI is setup, so on each push, the site should get updated.
+
 ## Hugo Help
 
 Help - https://gohugo.io/getting-started/usage/
