@@ -22,9 +22,15 @@ hugo server -D
 
 ``` 
 hugo -D
+hugo --cleanDestinationDir --verbose
 ```
 > Output will be in ./public/ directory by default (-d/--destination flag to change it, or set publishdir in the config file).
 
+## Deploy to GCP
+
+``` 
+gsutil -m rsync -R public gs://www.arunkpatra.io
+```
 ## Hugo Help
 
 Help - https://gohugo.io/getting-started/usage/

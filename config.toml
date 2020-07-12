@@ -110,7 +110,7 @@ math = true
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/arunkpatra"
 
   [[params.social]]
     name = "email"
@@ -122,7 +122,7 @@ math = true
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/arunkpatra"
+    url  = "https://linkedin.com/in/arunkpatra"
 
 [languages]
   [languages.en]

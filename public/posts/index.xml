@@ -5,7 +5,6 @@
         <description>Recent content in Posts on Marichikā</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://arunkpatra.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
@@ -1333,6 +1332,168 @@ Propoetides <strong>parte</strong>.</p>]]></content>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html">.emoji {
 font-family: Apple Color Emoji,Segoe UI Emoji,NotoColorEmoji,Segoe UI Symbol,Android Emoji,EmojiSymbols;
 }</code></pre></div>]]></content>
+        </item>
+        
+        <item>
+            <title>The &#34;figure&#34; Shortcode</title>
+            <link>https://arunkpatra.io/posts/2018/12/the-figure-shortcode/</link>
+            <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+            
+            <guid>https://arunkpatra.io/posts/2018/12/the-figure-shortcode/</guid>
+            <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
+https://gohugo.io/content-management/shortcodes/#figure
+This theme has 3 CSS classes made for figure elements:
+ big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
+            <content type="html"><![CDATA[<p>Hugo has <code>figure</code> shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:</p>
+<p><a href="https://gohugo.io/content-management/shortcodes/#figure">https://gohugo.io/content-management/shortcodes/#figure</a></p>
+<p>This theme has 3 CSS classes made for figure elements:</p>
+<ul>
+<li><code>big</code>: images will break the width limit of main content area.</li>
+<li><code>left</code>: images will float to the left.</li>
+<li><code>right</code>: images will float to the right.</li>
+</ul>
+<p>If a figure has no class set, the image will behave just like a normal markdown image: <code>![]()</code>.</p>
+<p>Here&rsquo;s some examples, please be aware that these styles only take effect when the page width is over 1300px.</p>
+<figure>
+    <img src="https://via.placeholder.com/1600x800"
+         alt="image"/> <figcaption>
+            <p>figure-normal (without any classes)</p>
+        </figcaption>
+</figure>
+
+<p>Pellentesque posuere sem nec nunc varius, id hendrerit arcu consequat. Maecenas commodo, sapien ut gravida porttitor, dolor risus facilisis enim, eget pharetra nibh nisl porttitor sapien. Proin finibus elementum ligula sit amet hendrerit. Praesent et erat sodales ante accumsan pharetra non eu nulla. Sed vehicula consequat lorem, a fermentum ante faucibus quis. Aliquam erat volutpat. In vitae tincidunt dui. Proin sit amet ligula sodales, elementum tortor et, venenatis sem. Maecenas non nisl erat. Curabitur nec velit eros. Ut cursus lacus nisi, non pretium libero euismod et. Fusce luctus in nisi quis sollicitudin. Aenean nec blandit ligula. Duis ac felis lorem. Proin tellus tellus, dictum nec tempus sit amet, venenatis ac felis. Sed in pharetra nulla, non mollis sem.</p>
+<figure class="big">
+    <img src="https://via.placeholder.com/1600x800"
+         alt="image"/> <figcaption>
+            <p>figure-big</p>
+        </figcaption>
+</figure>
+
+<p>Suspendisse fringilla malesuada massa, in malesuada orci lacinia a. Praesent dapibus faucibus nisl, id volutpat elit bibendum eu. Nulla vitae laoreet nibh, eu hendrerit lacus. Donec lacinia auctor ligula, vel interdum ipsum malesuada vitae. Donec placerat a justo eu gravida. Aenean ultricies imperdiet convallis. Pellentesque accumsan non ex sed euismod. Proin bibendum lectus nec enim faucibus feugiat. Donec hendrerit nisi viverra ornare luctus. Nullam non viverra nisl. Nam vel tellus et tortor elementum volutpat sit amet et erat. Aliquam a libero quis libero porta consectetur. Etiam aliquam felis vel nulla mattis finibus. Mauris laoreet lacus arcu, sed rhoncus odio condimentum sed. Aenean in dui rutrum elit faucibus faucibus nec fringilla augue. Fusce non ornare mauris.</p>
+<figure class="left">
+    <img src="https://via.placeholder.com/400x280"
+         alt="image"/> <figcaption>
+            <p>figure-left</p>
+        </figcaption>
+</figure>
+
+<p>In a libero varius, luctus ligula et, bibendum tortor. Sed sit amet dui malesuada, mattis justo id, ultricies enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam sollicitudin cursus feugiat. Vivamus suscipit ipsum eget lobortis sollicitudin. Fusce vehicula neque tellus. Integer eu posuere quam, id laoreet tortor. Mauris sit amet turpis urna. Donec venenatis tempor dolor, nec laoreet orci aliquet et. Sed condimentum elit eu tristique aliquam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc luctus ipsum sit amet nisl maximus pellentesque.</p>
+<figure class="right">
+    <img src="https://via.placeholder.com/400x280"
+         alt="image"/> <figcaption>
+            <p>figure-right</p>
+        </figcaption>
+</figure>
+
+<p>Pellentesque eu consequat nunc. Vivamus eu eros ut nulla dapibus molestie in id tortor. Cras viverra ligula erat, tincidunt hendrerit diam blandit nec. Cras id urna vel dolor dictum mattis. Vestibulum congue erat ac eros molestie accumsan. Maecenas lorem nibh, maximus vel justo eget, facilisis egestas lectus. Mauris eu est ut odio blandit consequat id feugiat eros. Fusce id suscipit mi, et lacinia lectus. Mauris a arcu placerat dolor iaculis feugiat nec non mi. Ut porttitor elit tortor, eget tempus velit mollis eu. Aliquam sem nulla, dictum cursus mauris ac, semper ullamcorper leo.</p>
+<p>Donec nec tincidunt est. Sed id metus in erat fringilla mattis at id turpis. Aliquam tempor vehicula faucibus. Phasellus consequat aliquam odio. Morbi a ex vitae sapien porta auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sit amet nulla arcu. Praesent ut tortor purus. Praesent id eros diam. Pellentesque vitae dolor at nibh ultrices accumsan eu id urna. Aliquam finibus interdum orci in varius. Pellentesque a enim condimentum, condimentum felis id, vehicula augue. Vivamus cursus commodo eros nec lacinia.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Post With Featured Image</title>
+            <link>https://arunkpatra.io/posts/2018/10/post-with-featured-image/</link>
+            <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+            
+            <guid>https://arunkpatra.io/posts/2018/10/post-with-featured-image/</guid>
+            <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
+For example:
+--- images: - https://picsum.photos/1024/768/?random --- This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+            <content type="html"><![CDATA[<p>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.</p>
+<p>For example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml">---
+<span style="color:#66d9ef">images</span>:
+  - https://picsum.photos/<span style="color:#ae81ff">1024</span>/<span style="color:#ae81ff">768</span>/?random
+---
+</code></pre></div><p>This is an array, you can set multiple urls, only the first url will be used. These images is also used in <a href="https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started.html">Twitter Cards</a> and the <a href="http://ogp.me/">Open Graph</a> metadata.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Typography</title>
+            <link>https://arunkpatra.io/posts/2018/09/typography/</link>
+            <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+            
+            <guid>https://arunkpatra.io/posts/2018/09/typography/</guid>
+            <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
+            <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<blockquote>
+<p>An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide, and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+</blockquote>
+<hr>
+<p>Inline styles：</p>
+<p><strong>strong</strong>, <em>emphasis</em>, <em><strong>strong and emphasis</strong></em>,<code>code</code>, <!-- raw HTML omitted -->underline<!-- raw HTML omitted -->, <del>strikethrough</del>, 😂🤣, $\LaTeX$, X^2^, H~2~O, ==highlight==, <a href="https://example.com">Link</a>, and image:</p>
+<p><img src="https://picsum.photos/600/400/?random" alt="img"></p>
+<hr>
+<p>Headings:</p>
+<h1 id="heading-1">Heading 1</h1>
+<h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<h4 id="heading-4">Heading 4</h4>
+<h5 id="heading-5">Heading 5</h5>
+<h6 id="heading-6">Heading 6</h6>
+<p>Table:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Left-Aligned</th>
+<th align="center">Center Aligned</th>
+<th align="right">Right Aligned</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">col 3 is</td>
+<td align="center">some wordy text</td>
+<td align="right">$1600</td>
+</tr>
+<tr>
+<td align="left">col 2 is</td>
+<td align="center">centered</td>
+<td align="right">$12</td>
+</tr>
+<tr>
+<td align="left">zebra stripes</td>
+<td align="center">are neat</td>
+<td align="right">$1</td>
+</tr>
+</tbody>
+</table>
+<p>Lists:</p>
+<ul>
+<li>Unordered list item 1.</li>
+<li>Unordered list item 2.</li>
+</ul>
+<ol>
+<li>ordered list item 1.</li>
+<li>ordered list item 2.
+<ul>
+<li>sub-unordered list item 1.</li>
+<li>sub-unordered list item 2.
+<ul>
+<li><input checked="" disabled="" type="checkbox"> something is DONE.</li>
+<li><input disabled="" type="checkbox"> something is NOT DONE.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p>Syntax Highlighting:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-javascript" data-lang="javascript"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">num1</span>, <span style="color:#a6e22e">num2</span>, <span style="color:#a6e22e">sum</span>
+<span style="color:#a6e22e">num1</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">prompt</span>(<span style="color:#e6db74">&#34;Enter first number&#34;</span>)
+<span style="color:#a6e22e">num2</span> <span style="color:#f92672">=</span> <span style="color:#a6e22e">prompt</span>(<span style="color:#e6db74">&#34;Enter second number&#34;</span>)
+<span style="color:#a6e22e">sum</span> <span style="color:#f92672">=</span> parseInt(<span style="color:#a6e22e">num1</span>) <span style="color:#f92672">+</span> parseInt(<span style="color:#a6e22e">num2</span>) <span style="color:#75715e">// &#34;+&#34; means &#34;add&#34;
+</span><span style="color:#75715e"></span><span style="color:#a6e22e">alert</span>(<span style="color:#e6db74">&#34;Sum = &#34;</span> <span style="color:#f92672">+</span> <span style="color:#a6e22e">sum</span>)  <span style="color:#75715e">// &#34;+&#34; means combine into a string
+</span></code></pre></div><section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>From <a href="https://en.wikipedia.org/wiki/Apple">https://en.wikipedia.org/wiki/Apple</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></content>
         </item>
         
         <item>

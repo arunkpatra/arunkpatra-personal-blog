@@ -188,6 +188,36 @@
   </url>
   
   <url>
+    <loc>https://arunkpatra.io/tags/demo/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunkpatra.io/tags/image/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunkpatra.io/posts/2018/12/the-figure-shortcode/</loc>
+    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunkpatra.io/posts/2018/10/post-with-featured-image/</loc>
+    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunkpatra.io/tags/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://arunkpatra.io/posts/2018/09/typography/</loc>
+    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://arunkpatra.io/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -210,11 +240,6 @@
                 hreflang="en"
                 href="https://arunkpatra.io/posts/2014/04/hugo-template-primer/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://arunkpatra.io/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -244,11 +269,6 @@
   
   <url>
     <loc>https://arunkpatra.io/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://arunkpatra.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
