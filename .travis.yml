@@ -1,0 +1,22 @@
+os: linux
+dist: bionic
+
+install:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.73.0_Linux-64bit.deb
+
+script:
+  - hugo --cleanDestinationDir --verbose
+
+deploy:
+  provider: gcs
+  access_key_id: GOOGSU6SCDQL3DHY3WEXTABR
+  secret_access_key:
+    secure: CmbZWAOhZ8iaeDa5NnkimqyE6JQvyPXAMmSBi1pprad+eFbrmC9JFTXjXr2JuVzC44zlypCcs8T7UwqY2uLOryB7ou6PfsFNi3dLhjbQTN0TSr0IVXUSzpxccPlTKGQcntKLi5wZNhQC83YAYeZsIjGcNMvOw+ERKSGgZc2HGdkT8CPWxixWg9Vu1WrCBoFVeoT4s20/Ai6GmU2wVM3WuuKYKOns6ZqLxhbybHpaB2DxiWuFY8nKGdRBiC8ExkGW8jHhHgKxDF/inH1/ZCKc/qn0dAqOHnfZh4SSOInhttIwOSQ4MRVdVqYr/UeElSRshjvnIB7eqlEktTrGF2HTO0RmYFaU11IGobfenDCjF+kLFDX4fU6lD0+qXjkVnGo/B05MBSZ0Yay4xdu9kh4jO42PG0ejYW1MWberRLxm8kigC6FLqNStqwjrGMwrPzZEqJsETWtUxlolCKaIuSACBZYcA8W4zrwErOdLI49o3n3dhmFMU6jmeLRekC0qh9aZDa2XKTtcX7vmG3+UOE0BI3AAiAfKdWtZ/+MQtyYCcnQTXWqIcPywahJ0TMPFZRuJlQ1vjsTd2IgkGl6QFIWYcJHjdcZjOSo1LW7JZqYBnXIK/2UNwHqQgzKkHgBhtONDCYFuwJ7+iA7gOmzNU8UYzFf2CrAhuZ3uLww272TTQxk=
+  bucket: www.arunkpatra.io
+  local-dir: public
+  on:
+    repo: arunkpatra/arunkpatra-personal-blog
+  skip_cleanup: 'true'
+  acl: public-read
+  cache_control: "max-age=31536000, no-transform, public"
