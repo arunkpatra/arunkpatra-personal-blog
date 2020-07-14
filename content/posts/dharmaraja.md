@@ -1,8 +1,7 @@
 ---
 title: "Dharmarāja"
-date: 2020-07-14T20:35:38+05:30
-description: "Dharmarāja - A story my mother told me"
 date: 2020-07-06
+description: "Dharmarāja - A story my mother told me"
 draft: false
 toc: false
 images:
