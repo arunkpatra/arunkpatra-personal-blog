@@ -2,8 +2,8 @@ os: linux
 dist: bionic
 
 install:
-  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.73.0/hugo_0.73.0_Linux-64bit.deb
-  - sudo dpkg -i hugo_0.73.0_Linux-64bit.deb
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.74.1/hugo_0.74.1_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.74.1_Linux-64bit.deb
 
 script:
   - hugo --cleanDestinationDir --verbose
