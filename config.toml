@@ -34,6 +34,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 disableToc     = false
 math = true
+removePathAccents = true
 
 [permalinks]
   posts = "/posts/:year/:month/:title/"
@@ -131,7 +132,7 @@ math = true
 
 [languages]
   [languages.en]
-    subtitle  = "Musings"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -140,7 +141,7 @@ math = true
       alt = "Marichikā"
   
   [languages.fr]
-    subtitle  = "Musings"
+    subtitle  = ""
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
