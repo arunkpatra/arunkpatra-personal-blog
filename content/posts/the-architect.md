@@ -16,6 +16,8 @@ tags:
   - informationtechnology
 ---
 
+{{< figure src="/img/the-architect-masthead-1280x640.png" alt="The Architect" attr="Image &copy; Warner Bros. Pictures, Village Roadshow Pictures" >}}
+
 ## Who are you? So asked Neo
 
 Contrary to what many might think, the Information Technology shop floor is not vastly different from a production line of the manufacturing industry. There are stark similarities. Same things in IT as well; sales, marketing, planning, design, processes, technology, products and people who create those products - in this case, software. 
@@ -24,7 +26,7 @@ It is but natural to think, that in the IT industry as well, there are many diff
 
 ## Gandalf the Gray
 
-Remember Gandalf, old guy with the pointy hat? If that rings any bells, it  also reminds one, of Frodo of the Shire and Aragorn son of Arathorn; all mighty heroes in a great endeavor. But Gandalf, as you might agree, was the master planner, adept at everything. The pitch, the motivation, the planning, the leadership, the tactics, the craft, the wisdom, the expertise with the sword and hand to hand combat. He had it all. He was the single most important character in the endeavor without whom, chances were high that the fellowship would have failed. He was the one true Architect of Middle Earth. J. R. R. Tolkien’s cell phone is unreachable since quite sometime, else I would have given him a call for a discussion on the topic.
+{{< image src="/img/software-architect-gandalf.jpg" alt="Gandalf" style="float:left; margin-right:15px; margin-top:5px " >}} Remember Gandalf, old guy with the pointy hat? If that rings any bells, it  also reminds one, of Frodo of the Shire and Aragorn son of Arathorn; all mighty heroes in a great endeavor. But Gandalf, as you might agree, was the master planner, adept at everything. The pitch, the motivation, the planning, the leadership, the tactics, the craft, the wisdom, the expertise with the sword and hand to hand combat. He had it all. He was the single most important character in the endeavor without whom, chances were high that the fellowship would have failed. He was the one true Architect of Middle Earth. J. R. R. Tolkien’s cell phone is unreachable since quite sometime, else I would have given him a call for a discussion on the topic.
 
 So, is a Software Architect(and they go by many names - more on it later) the one who knows everything about building and delivering software? Is the Architect an old grumpy guy with strange semblances with a professor with a minimum of twenty years of IT experience? Far from the truth. Let’s see why.
 
