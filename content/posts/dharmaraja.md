@@ -17,7 +17,7 @@ tags:
 
 ## Prologue
 
-_The Indian way of life is woven with yarns of a multitude of faiths, beliefs and convictions. If the warp of our culture’s fabric is rationale, the weft has to be belief. That fabric is dyed with hues of tradition and rituals, and printed with rich printing blocks from Hindu mythology. An extraordinarily rich and complex cultural canvas is the result._
+_The Indian way of life is woven with yarns of a multitude of faiths, beliefs and convictions. If the warp of our culture’s fabric is rationale, the weft has to be belief. That fabric is dyed with hues of tradition and rituals, and block printed with rich patterns from Hindu mythology. An extraordinarily rich and complex cultural canvas is the result._
 
 _Hindu mythology just like Egyptian, Greek or Norse mythology, plays a very important role in carrying forward human culture. It’s not only a way of preserving what has come to pass, but also a great source of inspiration and knowledge for the present and future. While the root word of mythology is myth, mythology itself is probably not just myth. Even if it were, isn’t it just beautiful?_ 
 
@@ -47,7 +47,7 @@ Word spread far and near, of a cobbler who sells exquisitely beautiful shoes nev
 
 Many moons passed. One morning, the apprentice was making a pair of slippers, and not fancy shoes. Simple slippers, that were fit for regular use; the kind of slippers, that was customary to be slipped onto the feet of the dead when they are put on the pyre. So the apprentice recalled from his soul ferrying days of the yamadootā. Suddenly a loud knocking on the door was heard. The king’s servants had arrived. “We want the most beautiful shoes in your inventory for the King. Bring them at once”.  The apprentice said, “My lord, all my shoes are sold. I’m making a new pair of slippers today and its almost done. Please take these slippers instead of the shoes you are looking for”. “Are you out of your mind? You will be at once taken prisoner and will be produced at the royal court”, the king’s servant thundered. Just then, a soldier on horseback arrived at the cobbler’s house. He whispered something in the royal servant’s ears. The soldier and the king’s servants left in a hurry - for the king was dead. They however, forgot to take the “dead men slippers” which the apprentice had now almost finished.
 
-## The rich merchant’s daughters’ wedding
+## The wedding
 
 Sixteen summers came to pass. There was a wedding. The rich merchant’s daughters were getting married and the cobbler was asked to produce the most exquisite collection of shoes for them. Twenty pairs each were made for the two daughters, Sukanyā and Annapoornā. The shoes were more beautiful than the rainbow and nothing like them had been seen in the entire kingdom ever, for the apprentice put his heart and soul in them, as if those were the last pairs he was making - for someone special. 
 
