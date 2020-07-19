@@ -57,8 +57,8 @@ removePathAccents = true
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
+  description = "Musings, Stories, Art and Code..."
+  keywords = "Arun Patra, blog, personal"
   images = [""]
 
   homeSubtitle = "Musings, Stories, Art and Code..."
