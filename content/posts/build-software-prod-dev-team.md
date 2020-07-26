@@ -104,7 +104,7 @@ hurts. You are the best decider for yourself based on real project needs on the 
 ## The Big Guns, the Ammo - The Tools
 
 Ok, the motivation from the sponsor, the true leader and a team that believes, have now been hired. We need something 
-else. We don't go out fighting a tactical war with a sophisticated adversary with primitive, crude weapons with belief 
+else. We don't go out fighting a tactical war against a sophisticated adversary with primitive, crude weapons with belief 
 bursting out of our hearts. That would be suicide. We need the right tools. You as a leader, got to enable your 
 software product development team with the right tools. But even before that, talk to the team, understand how they do 
 what they do. Observe, just don't speak, observe from a distance - as if you are the learner. Over time, you would know 
