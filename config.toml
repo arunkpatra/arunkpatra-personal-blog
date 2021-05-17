@@ -161,9 +161,9 @@ removePathAccents = true
 
 [deployment]
 
-[[deployment.targets]]
-name = "blog"
-URL = "gs://www.arunkpatra.io"
+#[[deployment.targets]]
+#name = "blog"
+#URL = "gs://www.arunkpatra.io"
 
 [[deployment.matchers]]
 #  Cache static assets for 1 year.

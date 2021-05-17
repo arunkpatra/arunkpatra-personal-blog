@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Marichikā</title>
+    <link>https://arunkpatra.io/categories/technology/</link>
+    <description>Recent content in technology on Marichikā</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arunkpatra.io/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Architect</title>
+      <link>https://arunkpatra.io/posts/2020/07/the-architect/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunkpatra.io/posts/2020/07/the-architect/</guid>
+      <description>Image © Warner Bros. Pictures, Village Roadshow Pictures
+  Who are you? So asked Neo Contrary to what many might think, the Information Technology shop floor is not vastly different from a production line of the manufacturing industry. There are stark similarities. Same things in IT as well; sales, marketing, planning, design, processes, technology, products and people who create those products - in this case, software.
+It is but natural to think, that in the IT industry as well, there are many different roles that people play in the shop floor.</description>
+    </item>
+    
+    <item>
+      <title>Building a Product Development Team</title>
+      <link>https://arunkpatra.io/posts/2020/06/building-a-product-development-team/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunkpatra.io/posts/2020/06/building-a-product-development-team/</guid>
+      <description>Introduction Not every problem can be solved using software, but in today&amp;rsquo;s Digital age, probably every single modern service is being enabled by technology and implemented to a good extent in software.
+What is a Product? A product is a physical realization of a business idea. It&amp;rsquo;s a concrete tool that helps solve a problem. Building a successful product, whether it&amp;rsquo;s a product developed using Information Technology/Software or not, is easier said than done.</description>
+    </item>
+    
+    <item>
+      <title>Choosing a Public Cloud Platform</title>
+      <link>https://arunkpatra.io/posts/2020/06/choosing-a-public-cloud-platform/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunkpatra.io/posts/2020/06/choosing-a-public-cloud-platform/</guid>
+      <description>Do I know why and if I need Cloud? I recently heard a statement from someone in the IT industry saying &amp;ldquo;We got to do cloud, cloud is everything&amp;rdquo;. When probed why, the answer came in - &amp;ldquo;Arun, you need to update yourself. Don&amp;rsquo;t you know that everybody has adopted it and didn&amp;rsquo;t you see the hype curve?&amp;rdquo;. I repeated politely, &amp;ldquo;Still my question&amp;rdquo;. Pat came the answer, &amp;ldquo;Please talk to the engineering team&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

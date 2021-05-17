@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud on Marichikā</title>
+    <link>https://arunkpatra.io/tags/cloud/</link>
+    <description>Recent content in cloud on Marichikā</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://arunkpatra.io/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing a Public Cloud Platform</title>
+      <link>https://arunkpatra.io/posts/2020/06/choosing-a-public-cloud-platform/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://arunkpatra.io/posts/2020/06/choosing-a-public-cloud-platform/</guid>
+      <description>Do I know why and if I need Cloud? I recently heard a statement from someone in the IT industry saying &amp;ldquo;We got to do cloud, cloud is everything&amp;rdquo;. When probed why, the answer came in - &amp;ldquo;Arun, you need to update yourself. Don&amp;rsquo;t you know that everybody has adopted it and didn&amp;rsquo;t you see the hype curve?&amp;rdquo;. I repeated politely, &amp;ldquo;Still my question&amp;rdquo;. Pat came the answer, &amp;ldquo;Please talk to the engineering team&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
