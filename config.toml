@@ -1,4 +1,4 @@
-baseURL = "https://arunkpatra.io"
+baseURL = "http://example.org/"
 title   = "Marichikā"
 languageCode = "en-us"
 theme = "hello-friend-ng"
